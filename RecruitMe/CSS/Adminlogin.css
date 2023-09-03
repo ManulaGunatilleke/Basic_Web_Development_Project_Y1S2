@@ -1,0 +1,44 @@
+/*IT21321436 Gunatilleke M. B. D. S*/
+
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+body{
+min-height: 100vh;
+background: #eee;
+display: flex;
+}
+
+.login-wrapper h2{
+	align-items:center;
+	justify-content: center;
+	text-decoration:bold;
+	background-color:blue;
+}
+.login-wrapper form .input{
+	align-items:center;
+	justify-content: center;
+}
+.login-wrapper form{
+   position: relative;
+   align-items:center;
+   justify-content: center;
+   background-color:blue;
+}
+.submit-btn{
+  outline: none;
+  border: none;
+  cursor: pointer;
+  display: inline-block;
+  margin: 0 auto;
+  padding: 0.9rem 2.5rem;
+  text-align: center;
+  background-color: #47AB11;
+  color: #fff;
+  border-radius: 4px;
+  box-shadow: 0px 3px 6px rgba(0, 0, 0, 0.16);
+  font-size: 17px;
+}

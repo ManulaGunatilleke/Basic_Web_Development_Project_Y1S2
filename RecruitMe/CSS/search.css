@@ -1,0 +1,74 @@
+.searchText{
+    padding-left:30px;
+    font-size:9px;
+    text-decoration: none;
+}
+
+.aText{
+    font-size:13px;
+    text-decoration: none;
+}
+
+.categoryView{
+    text-align: center;
+  flex-wrap: wrap;
+    width:100%;
+    display: flex;
+}
+ 
+
+.card {
+    /* Add shadows to create the "card" effect */
+    width: 15%;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    flex: 1;
+    margin: 1em;
+}
+
+.jobCard{
+    box-shadow: 0 1px 4px 0 rgba(0,0,0,0.2);
+    transition: 0.1s;
+    border: 0px solid rgb(0, 0, 0);
+    margin-bottom: 8px; 
+}
+  
+/* On mouse-over, add a deeper shadow */
+.card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+}
+  
+/* Add some padding inside the card container */
+.container {
+    padding: 2px 16px;
+}
+
+.hrefText{
+    margin-top:3%;
+    font-size:9px;
+    text-decoration: none;
+}
+
+#tagContainer{
+    text-align: center;
+    flex-wrap: wrap;
+    margin-left: 10px;
+    width:100%;
+    display: flex;
+}
+
+.tagShade{
+    font-size:10px;
+    background-color: rgba(224, 213, 213, 0.589);
+    padding:3px;
+    border: 1px solid;
+    border-radius: 8px;
+    margin: 4px;
+}
+
+
+body{
+    background-image: url(https://img.freepik.com/free-vector/white-abstract-wallpaper_23-2148830026.jpg?w=2000);
+    background-repeat: no-repeat;
+    background-size: cover;
+}

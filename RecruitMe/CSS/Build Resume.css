@@ -1,0 +1,100 @@
+/*IT21321436 Gunatilleke M. B. D. S*/
+
+.container2 form{
+	position: relative;
+    font-size: 20px;
+    font-weight: 600;
+    color: #f8f8f8;
+	margin: 20px 0 10px 10px;
+	background-color: #f8f8f8;
+	width:90%;
+	height:50%;
+	box-shadow: 0 5px 10px rgba(0,0,0,0.1);
+	align-items: center;
+	justify-content: center;
+	
+}
+
+
+table .tableTwo {
+  
+	align-items: right; 
+}
+
+.tableTwo th, td{
+	border: 0px solid black;
+    border-collapse: collapse;
+    font-size: 20px;
+    font-weight: 500;
+    color: #2e2e2e;
+	
+}
+.image{
+	
+	width:60%;
+	align-items:center:
+	justify-content: center;
+	
+	
+	
+}
+.image2{
+	
+	width:30%;
+	align-items:center:
+	
+	
+}
+.Basic{
+	background-color:#00FF00;
+	
+}
+
+.hrT{
+	border-top: 1px solid orange;
+	width:80%;
+}
+
+.lable{
+    font-size: 20px;
+    font-weight: 500;
+    color: #2e2e2e;
+}
+.forBasic input, select{
+	outline: none;
+    font-size: 14px;
+    font-weight: 400;
+    color: #333;
+    border-radius: 5px;
+    border: 2px solid #aaa;
+    padding:0 15px 5px 7px;
+    height: 42px;
+    margin: 8px 0;
+}
+.container3 tr{
+	height:50%;
+}
+
+	
+}
+.forBasic{
+	position:relative;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-right: 0px;
+	margin-left: 0px;
+	
+}
+.form{
+	position:relative;
+	padding:1px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-right: 0px;
+	margin-left: 0px;
+	align-items:center;
+	
+}
+.Footer{
+	position:relative;
+}
